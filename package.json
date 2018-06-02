@@ -8,9 +8,9 @@
     "xcode": "open ios/react_native_navigation_bootstrap.xcodeproj"
   },
   "dependencies": {
-    "react-native": "0.44.2",
+    "prop-types": "^15.6.1",
     "react": "16.0.0-alpha.6",
-    "react-native-navigation": "1.x.x",
-    "prop-types": "*"
+    "react-native": "0.44.2",
+    "react-native-navigation": "^1.1.465"
   }
 }
