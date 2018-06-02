@@ -8,6 +8,7 @@
     "xcode": "open ios/react_native_navigation_bootstrap.xcodeproj"
   },
   "dependencies": {
+    "hoek": "^4.2.1",
     "prop-types": "^15.6.1",
     "react": "16.0.0-alpha.6",
     "react-native": "0.44.2",
