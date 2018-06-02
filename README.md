@@ -1,20 +1,4 @@
-# react-native-navigation-bootstrap
-
-## Bootstrap for a vanilla `react-native-navigation` based project
-
-Clone this repository to start a project based on
-
-```
-"react-native": "0.44.2",
-"react": "16.0.0-alpha.6",
-"react-native-navigation": "1.x.x"
-```
-
-
-Check `react-native-navigation`'s [documentation](https://github.com/wix/react-native-navigation/wiki) for usage details.
-
-
-### preparing your project
+## Instructions
 
 Download npm dependencies:
 
